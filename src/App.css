@@ -444,7 +444,7 @@ footer {
 
 @media screen and (max-width: 568px) {
   :root {
-    /*   FONT SIZE   */
+    /*   FONT SIZE  */
     --font: 2vh;
 
     /*   SPACING   */
